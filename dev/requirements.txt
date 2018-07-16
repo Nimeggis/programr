@@ -1,0 +1,2 @@
+- Server up and running
+- Landing Page (e.g. "It's gonna be wonderful")
