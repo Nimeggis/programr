@@ -1,5 +1,0 @@
-- Server up and running
-- Landing Page (e.g. "It's gonna be wonderful")
-
-Ideen:
-- Bäcker-Vergleich ("kleinen" Bäckereien schützen, dass die Ketten diese nicht kaputt machen) mit Bewertung, Öffnungszeiten und verfügbaren in der Region mit Bring-Lieferdienst und Vergütung
