@@ -3,7 +3,7 @@ Eine kleine Todo Liste, welches später alles im GitHub untergebracht ist um sein
 - Entscheiden für eine (die erste) Webanwendung (Realisierbarkeit abschätzen -> möglicher Aufwand im nachhinein)
 - lokalen Webserver aufsetzten, sodass Webanwendung lokal getestet werden kann
 - Java 10? aktuell nur mit Java 8 möglich zu arbeiten, sonst ggf. umstellen
-- Einlesen in Angular
+- Einlesen in Angular (falls nicht gewünscht, nochmals absprechen)
 -> Starten mit der ersten Seite (Landingpage!)
 - Verteilung von Teilaufgaben
 -
