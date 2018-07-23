@@ -6,7 +6,7 @@ Eine kleine Todo Liste, welches später alles im GitHub untergebracht ist um sein
 - Einlesen in Angular (falls nicht gewünscht, nochmals absprechen)
 -> Starten mit der ersten Seite (Landingpage!)
 - Verteilung von Teilaufgaben
--
+- UX Design und Bedienung ( Bilder ) -> First Landing Page Design
 
 .
 .
