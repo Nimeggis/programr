@@ -1,1 +1,0 @@
-https://jaxenter.de/typescript-angular-2-netbeans-ide-ein-unschlagbares-trio-35011
