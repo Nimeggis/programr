@@ -7,7 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  title = 'programr';
   button = 'Click Me...';
   show = false;
   showTitle() {
