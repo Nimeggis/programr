@@ -7,7 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  button = 'Click Me...';
   show = false;
   showTitle() {
     if(this.show == false){
@@ -18,7 +17,8 @@ export class AppComponent {
       this.button = 'Open again'
     }
   }
-
+  
+  button = 'Click Me...';
   landing = 'Nice to see you';
   title = 'Welcome to';
   developers = 'Programr';
