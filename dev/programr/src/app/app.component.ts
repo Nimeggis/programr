@@ -8,15 +8,15 @@ import { Component } from '@angular/core';
 export class AppComponent {
 
   title = 'programr';
-  button = 'Open';
+  button = 'Click Me...';
   show = false;
   showTitle() {
     if(this.show == false){
       this.show = true;
-      this.button = 'Close'
+      this.button = 'Uh Nice'
     }else{
       this.show = false;
-      this.button = 'Open'
+      this.button = 'Open again'
     }
   }
 
