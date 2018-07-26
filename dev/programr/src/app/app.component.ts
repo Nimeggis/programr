@@ -13,7 +13,7 @@ export class AppComponent {
   showTitle() {
     if(this.show == false){
       this.show = true;
-      this.button = 'Uh Nice'
+      this.button = 'Uh Nice...'
     }else{
       this.show = false;
       this.button = 'Open again'
