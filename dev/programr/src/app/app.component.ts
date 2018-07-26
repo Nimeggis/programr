@@ -10,7 +10,11 @@ export class AppComponent {
   title = 'programr';
   show = false;
   showTitle() {
-    this.show = true;
+    if(this.show == false){
+      this.show = true;
+    }else{
+      this.show = false;
+    }
   }
 
   landing = 'Nice to see you';
