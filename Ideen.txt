@@ -1,9 +1,15 @@
-Ideen:
+﻿Ideen:
 
 - kurze Videos und Vlogs
 - Kurzvideos in einem bestimmten Radius (bis 50km) -> siehe Jodel nur halt nicht Anonym
 - bessere Kommentarfunktionen und Gifs, Bilder und Videoantworten erlaube
-
+- Video Plattform mit kurzen Videos und Vloggs und der Möglichkeit diese mit eigenen Videos Vloggs Gifs Sprachnachrichten etc. zu kommentieren
+  Eventuell andere Art und Weise der Bedienung (kein Scrolling vom oben nach unten)
 
 -> Innovatives Design
 -> Startseite mit Video im Hintergrund (Spotify) !!!Kompatibilität prüfen IE,Firefox, Chrome etc!!!
+
+
+Ggf. andere Ideen für später:
+- Bäcker-Vergleich ("kleinen" Bäckereien schützen, dass die Ketten diese nicht kaputt machen) mit Bewertung, Öffnungszeiten und verfügbaren in der Region mit Bring-Lieferdienst und Vergütung
+- Nachbarschafthilfe App mit lokalem Store und "Mitbringservice" wie in der Bäcker App

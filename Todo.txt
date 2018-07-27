@@ -9,9 +9,3 @@ Eine kleine Todo Liste, welches später alles im GitHub untergebracht ist um sein
 - UX Design und Bedienung ( Bilder ) -> First Landing Page Design
 - Server up and running
 - Landing Page (e.g. "It's gonna be wonderful")
-
-Ideen:
-- Bäcker-Vergleich ("kleinen" Bäckereien schützen, dass die Ketten diese nicht kaputt machen) mit Bewertung, Öffnungszeiten und verfügbaren in der Region mit Bring-Lieferdienst und Vergütung
-- Nachbarschafthilfe App mit lokalem Store und "Mitbringservice" wie in der Bäcker App
-- Video Plattform mit kurzen Videos und Vloggs und der Möglichkeit diese mit eigenen Videos Vloggs Gifs Sprachnachrichten etc. zu kommentieren
-  Eventuell andere Art und Weise der Bedienung (kein Scrolling vom oben nach unten)
