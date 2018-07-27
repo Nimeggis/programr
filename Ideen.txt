@@ -8,7 +8,7 @@
 
 -> Innovatives Design
 -> Startseite mit Video im Hintergrund (Spotify) !!!Kompatibilität prüfen IE,Firefox, Chrome etc!!!
-
+-> beachten der Interessen (was wurde häufig angeschaut etc. (ähnlich bei Facebook, Instagram)) -> "Ranking" der Inhalte
 
 Ggf. andere Ideen für später:
 - Bäcker-Vergleich ("kleinen" Bäckereien schützen, dass die Ketten diese nicht kaputt machen) mit Bewertung, Öffnungszeiten und verfügbaren in der Region mit Bring-Lieferdienst und Vergütung
